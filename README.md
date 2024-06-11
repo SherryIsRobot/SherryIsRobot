@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SherryIsRobot
+- 👋 Hi, I’m @SherryIsRobot (Bioinfo/Biostat)
 - 👀 I’m interested in sketching and music composing
 - 🌱 I’m learning statistics, machine learning, shell scripting, SAS, R and python
 - 💞️ I’m exploring different fields of interest
